@@ -1,6 +1,6 @@
 ### Hi there I'm Jorge 👋
 
-- 🔭 I’m currently I am interning at a group called WHATBOT, that is developing a virtual assistant for restaurants. 
+- 🔭 currently I am interning at a group called WHATBOT, that is developing a virtual assistant for restaurants. 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
