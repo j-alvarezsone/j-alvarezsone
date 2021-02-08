@@ -1,10 +1,10 @@
 ### Hi there I'm Jorge 👋
 
 - 🔭 Currently I am interning at a group called WHATBOT, that is developing a virtual assistant for restaurants. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Next.js.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
-- 🥅 2020 goals: Contribute more to Open Source projects.
+- 🥅 2021 goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play football, travel and my dog.
 
 ### Languages and Tools:
