@@ -32,5 +32,5 @@
   
 <img align="left" alt="Jorge's Github Stats" src="https://github-readme-stats-361vt2y86.vercel.app/api/top-langs/?username=j-alvarezsone&theme=react&layout=compact" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apij-alvarezsoneanuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-alvarezsone=anuraghazra&show_icons=true&theme=radical)
 
