@@ -1,7 +1,7 @@
 ### Hi there I'm Jorge 👋
 
-- 🔭 Currently I am interning at a group called WHATBOT, that is developing a virtual assistant for restaurants. 
-- 🌱 I’m currently learning TypeScript.
+- 🔭 Currently I'm working as junior fullstack developer at Dataddo 
+- 🌱 I’m currently learning PHP.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
 - 🥅 2021 goals: Contribute more to Open Source projects.
