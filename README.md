@@ -4,7 +4,7 @@
 - 🌱 Currently I’m learning PHP.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
-- 🥅 2021 goals: Contribute more to Open Source projects.
+- 🥅 2022 goals: Learn PHP and improve my skills on frontend.
 - ⚡ Fun fact: I love to play football, travel and my dog.
 
 ### Languages and Tools:
