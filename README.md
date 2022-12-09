@@ -3,10 +3,10 @@
 <a href="https://app.daily.dev/Jorge"><img src="https://api.daily.dev/devcards/2349a796e457467299d06272047ec505.png?r=8c4" width="200" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
 - 🔭 Currently I'm working as frontend developer at Dataddo 
-- 🌱 Currently I’m learning PHP.
+- 🌱 Currently I’m deep learning Vue 3.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
-- 🥅 2022 goals: Learn PHP and improve my skills on frontend.
+- 🥅 2023 goals: Learn Nux3.
 - ⚡ Fun fact: I love to play football, travel and my dog.
 
 ### Languages and Tools:
