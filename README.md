@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/Jorge"><img src="https://api.daily.dev/devcards/2349a796e457467299d06272047ec505.png?r=8c4" width="200" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
-- 🔭 Currently I'm working as junior fullstack developer at Dataddo 
+- 🔭 Currently I'm working as frontend developer at Dataddo 
 - 🌱 Currently I’m learning PHP.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
