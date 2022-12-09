@@ -1,5 +1,7 @@
 ### Hi there I'm Jorge 👋
 
+<a href="https://app.daily.dev/Jorge"><img src="https://github.com/j-alvarezsone/j-alvarezsone/edit/master/devcard.svg" width="200" alt="Jorge Alvarez Sone's Dev Card"/></a>
+
 - 🔭 Currently I'm working as junior fullstack developer at Dataddo 
 - 🌱 Currently I’m learning PHP.
 - 👯 I’m looking to collaborate with other developers.
