@@ -2,12 +2,12 @@
 
 <a href="https://app.daily.dev/Jorge"><img src="https://github.com/j-alvarezsone/j-alvarezsone/blob/master/devcard.svg" width="200" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
-- 🔭 Currently I'm working as frontend developer at Dataddo 
-- 🌱 Currently I’m deep learning Vue 3.
+- 🔭 Currently I'm working as a Frontend developer at Dataddo 
+- 🌱 Currently I’m deep learning Nuxt 3.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
-- 🥅 2023 goals: Learn Nux3.
-- ⚡ Fun fact: I love to play football, travel and my dog.
+- 🥅 2024 goals: Learn React Native.
+- ⚡ Fun fact: I love to play football, travel, and my dog.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
