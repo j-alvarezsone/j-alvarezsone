@@ -1,6 +1,6 @@
 ### Hi there I'm Jorge 👋
 
-<a href="https://app.daily.dev/Jorge"><img src="https://github.com/j-alvarezsone/j-alvarezsone/blob/master/devcard.svg" width="200" alt="Jorge Alvarez Sone's Dev Card"/></a>
+<a href="https://app.daily.dev/jorge774"><img src="https://api.daily.dev/devcards/v2/QTMVq0wDp2QSRxedd3qFj.png?r=gks" width="356" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
 - 🔭 Currently I'm working as a Frontend developer at Dataddo 
 - 🌱 Currently I’m deep learning Nuxt 3.
