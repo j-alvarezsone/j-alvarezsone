@@ -23,13 +23,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-
-[linkedin]: https://www.linkedin.com/in/jorge-alvarez-sone
-[facebook]: https://www.facebook.com/jorge.alvarezsone
-[instagram]: https://www.instagram.com/j_alvarez08/
+<a href="https://www.linkedin.com/in/jorge-alvarez-sone" target="_blank">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/j_alvarez08/" target="_blank">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-alvarezsone&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
