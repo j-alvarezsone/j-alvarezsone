@@ -30,6 +30,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
+<br>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-alvarezsone&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
