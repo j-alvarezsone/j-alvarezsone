@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/jorge774"><img src="https://api.daily.dev/devcards/v2/QTMVq0wDp2QSRxedd3qFj.png?r=gks" width="356" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
-- 🔭 Currently I'm working as a Frontend developer at Dataddo 
+- 🔭 Currently I'm finding a new opportunity. 
 - 🌱 Currently I’m deep learning React native(Expo).
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
