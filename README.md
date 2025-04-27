@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
 - 🥅 2025 goals: Learn React Native(expo).
-- ⚡ Fun fact: I love to play football, travel, and my dog.
+- ⚡ Fun fact: Half Japanese, half Peruvian - disciplined and detail-driven, with a passion fueled by creativity.
+
 
 ### Languages and Tools:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
