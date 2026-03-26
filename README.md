@@ -2,11 +2,11 @@
 
 <a href="https://app.daily.dev/jorge774"><img src="https://api.daily.dev/devcards/v2/QTMVq0wDp2QSRxedd3qFj.png?r=gks" width="356" alt="Jorge Alvarez Sone's Dev Card"/></a>
 
-- 🔭 Currently I'm finding a new opportunity. 
+- 
 - 🌱 Currently I’m deep learning React native(Expo).
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me: j.alvarezsone@gmail.com
-- 🥅 2025 goals: Learn React Native(expo).
+- 🥅 2026 goals: Learn React Native(expo).
 - ⚡ Fun fact: Half Japanese, half Peruvian - disciplined and detail-driven, with a passion fueled by creativity.
 
 
